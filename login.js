@@ -1,1 +1,1 @@
-console.log("Login new");
+console.log("Login new avanced");
